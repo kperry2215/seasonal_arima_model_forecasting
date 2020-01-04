@@ -151,8 +151,7 @@ def plot_results(mean_predicted_values, confidence_interval_predicted_values, ti
     plt.legend()
     plt.show()
     
-#if __name__== "__main__":
-def main():
+if __name__== "__main__":
     """
     Run main script
     """
